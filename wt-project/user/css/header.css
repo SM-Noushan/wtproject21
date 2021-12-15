@@ -1,0 +1,53 @@
+.contact-info{
+    margin:10px 0px 11px 0px;
+    text-align: right;
+    }
+#imglogo{
+    width: 150px;
+    height: 70px;
+}
+.container{
+    padding-bottom: 25px;
+}
+#wtap{
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+}
+#carduser{
+    text-align: center;
+}
+#btnuser{
+    width: 90%;
+    margin-bottom: 20px;
+}
+.dashboard-img{
+    height: 300px;
+}
+#admin-search-user{
+    margin-top: 6px;
+}
+#admin-search-user input{
+    width: 40%;
+    height: 40px;
+}
+#admin-search-user button{
+    margin-top: 5px;
+}
+#add-categorie, #delete-categorie{
+    margin: 5px 0px;
+    width: 100%;
+}
+
+/*UserView*/
+.tag{
+    text-align: center;
+    color: white;
+    background-color: darksalmon;
+}
+#footer {
+    clear: both;
+    position: relative;
+    height: 200px;
+    margin-top: -200px;
+}
